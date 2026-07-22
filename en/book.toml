@@ -1,0 +1,13 @@
+[book]
+title = "Advanced Rust"
+authors = ["SomeB1oody"]
+description = "An advanced guide to Rust programming."
+language = "en"
+src = "src"
+
+[build]
+build-dir = "../book/en"
+
+[output.html]
+preferred-dark-theme = "navy"
+git-repository-url = "https://github.com/SomeB1oody/AdvancedRust"

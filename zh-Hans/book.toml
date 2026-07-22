@@ -1,0 +1,13 @@
+[book]
+title = "Rust进阶指南"
+authors = ["SomeB1oody"]
+description = "一份Rust进阶指南。"
+language = "zh-Hans"
+src = "src"
+
+[build]
+build-dir = "../book/zh-Hans"
+
+[output.html]
+preferred-dark-theme = "navy"
+git-repository-url = "https://github.com/SomeB1oody/AdvancedRust"
