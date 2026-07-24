@@ -9,6 +9,7 @@
 - [内存 Pt.2：栈内存、栈帧(stack_frame)、栈指针(stack_pointer)](./Chapter-01/1.4/1.4._内存_Pt.2：栈内存、栈帧stack_frame、栈指针stack_pointer.md)
 - [内存 Pt.3：深入探究Rust堆内存底层实现](./Chapter-01/1.5/1.5._内存_Pt.3：深入探究Rust堆内存底层实现.md)
 - [内存 Pt.4：静态(static)内存与`'static`生命周期标注](./Chapter-01/1.6/1.6._内存_Pt.4：静态(static)内存与'static生命周期标注.md)
+- [内存 Pt.5：堆内存vs.栈内存、虚拟内存、数据在RAM中展示的建议](./Chapter-01/1.7/1.7._内存_Pt.5：堆内存vs.栈内存、虚拟内存、数据在RAM中展示的建议.md)
 
 # 第二部分 — API 设计
 
