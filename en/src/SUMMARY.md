@@ -5,6 +5,6 @@
 - [Memory Part 1 - Definitions of Concepts and the High-Level and Low-Level Models of Variables](./Chapter-01/1.3/1.3._Memory_Part_1_-_Definitions_of_Concepts_and_the_High-Level_and_Low-Level_Models_of_Variables.md)
 - [Memory Part 2 - Stack Memory, Stack Frames, and Stack Pointer](./Chapter-01/1.4/1.4._Memory_Part_2_-_Stack_Memory,_Stack_Frames,_and_Stack_Pointer.md)
 - [Memory Part 3 - A Deep Dive Into Rust Heap Memory Implementation](./Chapter-01/1.5/1.5._Memory_Part_3_-_A_Deep_Dive_Into_Rust_Heap_Memory_Implementation.md)
-- [Memory Part 4 - Static Memory and the `'static` Lifetime Annotation](./Chapter-01/1.6/1.6._Memory_Part_4_-_Static_Memory_and_the_'static_Lifetime_Annotation.md)
+- [Memory Part 4 - Static Memory and the `'static` Lifetime Annotation](./Chapter-01/1.6/1.6._Memory_Part_4_-_Static_Memory_and_the_static_Lifetime_Annotation.md)
 - [Memory Part 5 - Heap vs. Stack Memory, Virtual Memory, and Guidelines for Displaying Data in RAM](./Chapter-01/1.7/1.7._Memory_Part_5_-_Heap_vs._Stack_Memory,_Virtual_Memory,_and_Guidelines_for_Displaying_Data_in_RAM.md)
 - [Memory Part 6 - Scanning Address Space Through the Operating System](./Chapter-01/1.8/1.8._Memory_Part_6_-_Scanning_Address_Space_Through_the_Operating_System.md)
