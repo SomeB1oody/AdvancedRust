@@ -11,3 +11,4 @@
 - [Ownership (Quick Recap) - Core Ideas of Ownership, How to Implement Traits](./Chapter-01/1.9/1.9._Ownership_(Quick_Recap)_-_Core_Ideas_of_Ownership,_How_to_Implement_Copy_Trait,_Value_Drop,_and_Drop_Order.md)
 - [Reference and Interior Mutability (Quick Recap)](./Chapter-01/1.10/1.10._References_and_Interior_Mutability_(Quick_Recap)_-_References,_Interior_Mutability,_Cell_Type,_and_Related_Operations.md)
 - [Lifetimes (Advanced) Pt.1 - Review, Borrow Checker, Generic Lifetimes](./Chapter-01/1.11/1.11._Lifetimes_(Advanced)_Pt.1_-_Review,_Borrow_Checker,_Generic_Lifetimes.md)
+- [Lifetimes (Advanced) Pt.2 - Lifetime Variance, Covariance, Invariance, Contravariance](./Chapter-01/1.12/1.12._Lifetimes_(Advanced)_Pt.2_-_Lifetime_Variance,_Covariance,_Invariance,_Contravariance.md)
