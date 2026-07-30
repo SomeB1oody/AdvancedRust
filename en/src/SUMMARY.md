@@ -14,3 +14,4 @@
 - [Lifetimes (Advanced) Pt.2 - Lifetime Variance, Covariance, Invariance, Contravariance](./Chapter-01/1.12/1.12._Lifetimes_(Advanced)_Pt.2_-_Lifetime_Variance,_Covariance,_Invariance,_Contravariance.md)
 - [Memory Types Pt.1 - Alignment, Layout, and the `repr` Attribute](./Chapter-01/1.13/1.13._Memory_Types_Pt.1_-_Alignment,_Layout,_and_the_Repr_Attribute.md)
 - [Memory Types Pt.2 - Dynamically Sized Types, Wide Pointers, Packed Layouts, Larger Alignment, Memory Representation, and `repr(Rust)`](./Chapter-01/1.14/1.14._Memory_Types_Pt.2_-_Dynamically_Sized_Types_and_Wide_Pointers,_Packed_Layouts,_Larger_Alignment_for_Specific_Fields_or_Types,_Memory_Representation_of_Complex_Types,_and_Repr_Rust.md)
+- [Trait Bounds - Compilation and Dispatch](./Chapter-01/1.15/1.15._Trait_Bounds_-_Compilation_and_Dispatch.md)
