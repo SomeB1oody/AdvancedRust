@@ -9,3 +9,4 @@
 - [Memory Part 5 - Heap vs. Stack Memory, Virtual Memory, and Guidelines for Displaying Data in RAM](./Chapter-01/1.7/1.7._Memory_Part_5_-_Heap_vs._Stack_Memory,_Virtual_Memory,_and_Guidelines_for_Displaying_Data_in_RAM.md)
 - [Memory Part 6 - Scanning Address Space Through the Operating System](./Chapter-01/1.8/1.8._Memory_Part_6_-_Scanning_Address_Space_Through_the_Operating_System.md)
 - [Ownership (Quick Recap) - Core Ideas of Ownership, How to Implement Traits](./Chapter-01/1.9/1.9._Ownership_(Quick_Recap)_-_Core_Ideas_of_Ownership,_How_to_Implement_Copy_Trait,_Value_Drop,_and_Drop_Order.md)
+- [Reference and Interior Mutability (Quick Recap)](./Chapter-01/1.10/1.10._References_and_Interior_Mutability_(Quick_Recap)_-_References,_Interior_Mutability,_Cell_Type,_and_Related_Operations.md)
