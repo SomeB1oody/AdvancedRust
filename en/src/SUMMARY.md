@@ -12,3 +12,4 @@
 - [Reference and Interior Mutability (Quick Recap)](./Chapter-01/1.10/1.10._References_and_Interior_Mutability_(Quick_Recap)_-_References,_Interior_Mutability,_Cell_Type,_and_Related_Operations.md)
 - [Lifetimes (Advanced) Pt.1 - Review, Borrow Checker, Generic Lifetimes](./Chapter-01/1.11/1.11._Lifetimes_(Advanced)_Pt.1_-_Review,_Borrow_Checker,_Generic_Lifetimes.md)
 - [Lifetimes (Advanced) Pt.2 - Lifetime Variance, Covariance, Invariance, Contravariance](./Chapter-01/1.12/1.12._Lifetimes_(Advanced)_Pt.2_-_Lifetime_Variance,_Covariance,_Invariance,_Contravariance.md)
+- [Memory Types Pt.1 - Aligment, Layout, and the `repr` Attribute](./Chapter-01/1.13/1.13._Memory_Types_Pt.1_-_Alignment,_Layout,_and_the_Repr_Attribute.md)
