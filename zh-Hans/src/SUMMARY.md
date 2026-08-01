@@ -21,3 +21,4 @@
 - [API设计原则之不意外性 Pt.2：实现`Clone`, `Default`, `PartialEq`, `PartialOrd`, `Hash`, `Eq`, 和`Ord`](./Chapter-02/2.2/2.2._API设计原则之不意外性(unsurprising)_Pt.2：实现Clone、Default、PartialEq、PartialOrd、Hash、Eq和Ord.md)
 - [API设计原则之不意外性 Pt.3：实现`Serialize`和`Deserialize` trait，不建议实现·Copy trait](./Chapter-02/2.3/2.3._API设计原则之不意外性(unsurprising)_Pt.3：实现serde下的Serialize和Deserialize_trait、不建议实现Copy_trait.md)
 - [API设计原则之不意外性 Pt.4：人体工程学的trait实现、包装类型、`Borrow` trait](./Chapter-02/2.4/2.4._API设计原则之不意外性(unsurprising)_Pt.4：“人体工程学”的trait实现、包装类型(Wrapper_Types)、Borrow_trait.md)
+- [API设计原则之灵活性 Pt.1：代码的契约和使用范型参数让接口更灵活](./Chapter-02/2.5/2.5._API设计原则之灵活性(flexible)_Pt.1：代码的契约(Contract)、使用泛型参数(generic_arguments)让接口更灵活.md)
