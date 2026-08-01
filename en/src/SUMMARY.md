@@ -18,3 +18,4 @@
 - [Generic Traits - Generic (Type-Parameter) Traits and Associated-Type Traits](./Chapter-01/1.16/1.16._Generic_Traits_-_Generic_(Type-Parameter)_Traits_and_Associated-Type_Traits.md)
 - [Orphan Rules, Coherence, and Consistency - Blanket and Covered Implementations](./Chapter-01/1.17/1.17._Orphan_Rules,_Coherence,_and_Consistency_-_Blanket_and_Covered_Implementations.md)
 - [API Design Principles of Unsurprising - Naming Tips, Implementing Common Traits](./Chapter-02/2.1/2.1._API_Design_Principles_of_Unsurprising_-_Naming_Tips,_Implementing_Common_Traits_(Debug,_Send,_Sync,_and_Unpin).md)
+- [API Design Principles of Unsurprising Pt.2 - Implementing `Clone`, `Default`, `PartialEq`, `PartialOrd`, `Hash`, `Eq`, and `Ord`](./Chapter-02/2.2/2.2._API_Design_Principles_of_Unsurprising_Pt.2_-_Implementing_Clone,_Default,_PartialEq,_PartialOrd,_Hash,_Eq,_and_Ord.md)
