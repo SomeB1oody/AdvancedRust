@@ -20,3 +20,4 @@
 - [API设计原则之不意外性 Pt.1：命名的技巧、实现常用的trait](./Chapter-02/2.1/2.1._API设计原则之不意外性(unsurprising)：命名的技巧、实现常用的trait(Debug、Send、Sync和Unpin).md)
 - [API设计原则之不意外性 Pt.2：实现`Clone`, `Default`, `PartialEq`, `PartialOrd`, `Hash`, `Eq`, 和`Ord`](./Chapter-02/2.2/2.2._API设计原则之不意外性(unsurprising)_Pt.2：实现Clone、Default、PartialEq、PartialOrd、Hash、Eq和Ord.md)
 - [API设计原则之不意外性 Pt.3：实现`Serialize`和`Deserialize` trait，不建议实现·Copy trait](./Chapter-02/2.3/2.3._API设计原则之不意外性(unsurprising)_Pt.3：实现serde下的Serialize和Deserialize_trait、不建议实现Copy_trait.md)
+- [API设计原则之不意外性 Pt.4：人体工程学的trait实现、包装类型、`Borrow` trait](./Chapter-02/2.4/2.4._API设计原则之不意外性(unsurprising)_Pt.4：“人体工程学”的trait实现、包装类型(Wrapper_Types)、Borrow_trait.md)
