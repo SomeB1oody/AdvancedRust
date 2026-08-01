@@ -16,3 +16,4 @@
 - [内存中的类型 Pt.2：动态大小的类型、宽指针、无填充内存布局、给特定字段或类型更大的对齐、复杂类型的内存表示、`repr(Rust)`](./Chapter-01/1.14/1.14._内存中的类型_Pt.2：动态大小的类型和宽指针(Wide_Pointer)、无填充内存布局、给特定字段或类型更大的对齐、复杂类型的内存表示、repr(Rust).md)
 - [Trait约束的编译与分派](./Chapter-01/1.15/1.15._Trait_bounds(Trait_约束)的编译与分派.md)
 - [范型trait：范型（类型参数）trait和关联类型trait](./Chapter-01/1.16/1.16._泛型trait：泛型（类型参数）trait、关联类型trait.md)
+- [孤儿原则与连贯性（一致性）：范实现（Blanket Implementation）与覆盖实现（Covered Implementation）](./Chapter-01/1.17/1.17._孤儿规则与连贯性(一致性)：泛实现(Blanket_Implementation)、覆盖实现(Covered_Implementation).md)

@@ -16,3 +16,4 @@
 - [Memory Types Pt.2 - Dynamically Sized Types, Wide Pointers, Packed Layouts, Larger Alignment, Memory Representation, and `repr(Rust)`](./Chapter-01/1.14/1.14._Memory_Types_Pt.2_-_Dynamically_Sized_Types_and_Wide_Pointers,_Packed_Layouts,_Larger_Alignment_for_Specific_Fields_or_Types,_Memory_Representation_of_Complex_Types,_and_Repr_Rust.md)
 - [Trait Bounds - Compilation and Dispatch](./Chapter-01/1.15/1.15._Trait_Bounds_-_Compilation_and_Dispatch.md)
 - [Generic Traits - Generic (Type-Parameter) Traits and Associated-Type Traits](./Chapter-01/1.16/1.16._Generic_Traits_-_Generic_(Type-Parameter)_Traits_and_Associated-Type_Traits.md)
+- [Orphan Rules, Coherence, and Consistency - Blanket and Covered Implementations](./Chapter-01/1.17/1.17._Orphan_Rules,_Coherence,_and_Consistency_-_Blanket_and_Covered_Implementations.md)
