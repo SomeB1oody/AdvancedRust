@@ -19,3 +19,4 @@
 - [孤儿原则与连贯性（一致性）：范实现（Blanket Implementation）与覆盖实现（Covered Implementation）](./Chapter-01/1.17/1.17._孤儿规则与连贯性(一致性)：泛实现(Blanket_Implementation)、覆盖实现(Covered_Implementation).md)
 - [API设计原则之不意外性 Pt.1：命名的技巧、实现常用的trait](./Chapter-02/2.1/2.1._API设计原则之不意外性(unsurprising)：命名的技巧、实现常用的trait(Debug、Send、Sync和Unpin).md)
 - [API设计原则之不意外性 Pt.2：实现`Clone`, `Default`, `PartialEq`, `PartialOrd`, `Hash`, `Eq`, 和`Ord`](./Chapter-02/2.2/2.2._API设计原则之不意外性(unsurprising)_Pt.2：实现Clone、Default、PartialEq、PartialOrd、Hash、Eq和Ord.md)
+- [API设计原则之不意外性 Pt.3：实现`Serialize`和`Deserialize` trait，不建议实现·Copy trait](./Chapter-02/2.3/2.3._API设计原则之不意外性(unsurprising)_Pt.3：实现serde下的Serialize和Deserialize_trait、不建议实现Copy_trait.md)
