@@ -22,3 +22,4 @@
 - [API设计原则之不意外性 Pt.3：实现`Serialize`和`Deserialize` trait，不建议实现·Copy trait](./Chapter-02/2.3/2.3._API设计原则之不意外性(unsurprising)_Pt.3：实现serde下的Serialize和Deserialize_trait、不建议实现Copy_trait.md)
 - [API设计原则之不意外性 Pt.4：人体工程学的trait实现、包装类型、`Borrow` trait](./Chapter-02/2.4/2.4._API设计原则之不意外性(unsurprising)_Pt.4：“人体工程学”的trait实现、包装类型(Wrapper_Types)、Borrow_trait.md)
 - [API设计原则之灵活性 Pt.1：代码的契约和使用范型参数让接口更灵活](./Chapter-02/2.5/2.5._API设计原则之灵活性(flexible)_Pt.1：代码的契约(Contract)、使用泛型参数(generic_arguments)让接口更灵活.md)
+- [API设计原则之灵活性 Pt.2：对象安全、API设计和泛型trait方法](./Chapter-02/2.6/2.6._API设计原则之灵活性(flexible)_Pt.2：对象安全(Object_Safety)、对象安全与API设计、trait的泛型方法与API设计.md)
