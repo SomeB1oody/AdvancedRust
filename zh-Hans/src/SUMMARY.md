@@ -24,3 +24,4 @@
 - [API设计原则之灵活性 Pt.1：代码的契约和使用范型参数让接口更灵活](./Chapter-02/2.5/2.5._API设计原则之灵活性(flexible)_Pt.1：代码的契约(Contract)、使用泛型参数(generic_arguments)让接口更灵活.md)
 - [API设计原则之灵活性 Pt.2：对象安全、API设计和泛型trait方法](./Chapter-02/2.6/2.6._API设计原则之灵活性(flexible)_Pt.2：对象安全(Object_Safety)、对象安全与API设计、trait的泛型方法与API设计.md)
 - [API设计原则之灵活性 Pt.3：借用和拥有、Cow类型、可失败和阻塞的析构函数与解决办法](./Chapter-02/2.7/2.7._API设计原则之灵活性(flexible)_Pt.3：借用_vs._拥有、Cow类型、可失败和阻塞的析构函数及解决办法.md)
+- [API设计原则之灵活性 Pt.4：显示析构函数的问题及3种解决方案](./Chapter-02/2.8/2.8._API设计原则之灵活性(flexible)_Pt.4：显式析构函数的问题及3种解决方案.md)
