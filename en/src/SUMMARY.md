@@ -26,3 +26,4 @@
 - [API Design Principles of Flexibility Pt.3 - Borrowed vs Owned, Cow Type, and Fallible and Blocking Destructors with Solutions](./Chapter-02/2.7/2.7._API_Design_Principles_of_Flexibility_Pt.3_-_Borrowed_vs_Owned,_Cow_Type,_and_Fallible_and_Blocking_Destructors_with_Solutions.md)
 - [API Design Principles of Flexibility Pt.4 - Problems with Explicit Destructors and Three Solutions](./Chapter-02/2.8/2.8._API_Design_Principles_of_Flexibility_Pt.4_-_Problems_with_Explicit_Destructors_and_Three_Solutions.md)
 - [API Design Principles of Obviousness Pt.1 - Documentation and Type System Semantic Types, and Zero-Sized Types](./Chapter-02/2.9/2.9._API_Design_Principles_of_Obviousness_-_Documentation_and_Type_System,_Semantic_Types,_and_Zero-Sized_Types.md)
+- [API Design Principles of Constrained Pt.1 - Changing Types](./Chapter-02/2.10/2.10._API_Design_Principles_of_Constrained_Pt.1_-_Changing_Types.md)
