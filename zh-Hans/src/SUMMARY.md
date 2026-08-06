@@ -27,3 +27,4 @@
 - [API设计原则之灵活性 Pt.4：显示析构函数的问题及3种解决方案](./Chapter-02/2.8/2.8._API设计原则之灵活性(flexible)_Pt.4：显式析构函数的问题及3种解决方案.md)
 - [API设计原则之明显性 Pt.1：文档与类型系统、语义类型和零大小类型](./Chapter-02/2.9/2.9._API设计原则之显然性(obvious)_：文档与类型系统、语义化类型、使用“零大小”类型.md)
 - [API设计原则之约束性 Pt.1：对类型进行修改](./Chapter-02/2.10/2.10._API设计原则之受约束性(constrained)_Pt.1：对类型进行修改.md)
+- [API设计原则之约束性 Pt.2：封闭trait、重导出、自动trait](./Chapter-02/2.11/2.11._API设计原则之受约束性(constrained)_Pt.2：封闭trait(sealed_trait)、重新导出(re-exports)、自动trait(auto-trait).md)
