@@ -2,9 +2,9 @@
 
 Advanced Rust Notes
 
-English version available at [GitHub Pages](https://someb1oody.github.io/AdvancedRust/en/)
+English version available at [GitHub Pages](https://someb1oody.github.io/AdvancedRust/en/) and [Dev.to](https://dev.to/someb1oody/series/42383)
 
-Chinese version available at [GitHub Pages](https://someb1oody.github.io/AdvancedRust/zh-Hans/)
+Chinese version available at [GitHub Pages](https://someb1oody.github.io/AdvancedRust/zh-Hans/) and [CSDN](https://blog.csdn.net/weixin_71793197/category_12889480.html)
 
 ## License
 
